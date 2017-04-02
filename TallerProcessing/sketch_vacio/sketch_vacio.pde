@@ -1,7 +1,7 @@
 
 
 /*    
-  SKETCH DE EJEMPLO, VACIO.
+  SKETCH DE EJEMPLO, VACIO. 
   CONVIENE EMPEZAR SIEMPRE CON UN TEXTO QUE EXPLIQUE EL CONTENIDO DE 
   PROGRAMA QUE ESTAMOS HACIENDO. 
   Como se trata de un texto para humanos, lo ponemos dentro de un comentario
